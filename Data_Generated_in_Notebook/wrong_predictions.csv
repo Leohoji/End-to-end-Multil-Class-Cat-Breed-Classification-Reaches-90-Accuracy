@@ -1,0 +1,315 @@
+,img_path,y_true,y_pred,pred_conf,y_true_classname,y_pred_classname,pred_correct
+446,b'.\\cats20\\test\\Birman\\birman_31.jpg',4,9,0.99264914,Birman,Himalayan,False
+473,b'.\\cats20\\test\\Birman\\birman_421.jpg',4,9,0.99264914,Birman,Himalayan,False
+447,b'.\\cats20\\test\\Birman\\birman_314.jpg',4,9,0.98909235,Birman,Himalayan,False
+1802,b'.\\cats20\\test\\Siamese\\siamese_121.jpg',18,15,0.97429127,Siamese,Regdoll,False
+1294,b'.\\cats20\\test\\Munchkin\\munchkin_56.jpg',12,5,0.97287685,Munchkin,Bombay,False
+1131,b'.\\cats20\\test\\Manx\\manx_254.jpg',11,13,0.9694211,Manx,Norwegian Forest,False
+497,b'.\\cats20\\test\\Birman\\birman_87.jpg',4,9,0.96832824,Birman,Himalayan,False
+433,b'.\\cats20\\test\\Birman\\birman_246.jpg',4,9,0.9611073,Birman,Himalayan,False
+1277,b'.\\cats20\\test\\Munchkin\\munchkin_431.jpg',12,17,0.9578472,Munchkin,Scottish Fold,False
+129,b'.\\cats20\\test\\American Curl\\americancurl_252.jpg',1,15,0.9563724,American Curl,Regdoll,False
+450,b'.\\cats20\\test\\Birman\\birman_323.jpg',4,9,0.9540342,Birman,Himalayan,False
+407,b'.\\cats20\\test\\Birman\\birman_125.jpg',4,9,0.94739705,Birman,Himalayan,False
+1263,b'.\\cats20\\test\\Munchkin\\munchkin_363.jpg',12,17,0.9433474,Munchkin,Scottish Fold,False
+1715,b'.\\cats20\\test\\Scottish Fold\\scottish_179.jpg',17,6,0.9361003,Scottish Fold,Bristish Shorthair,False
+390,b'.\\cats20\\test\\Bengal\\bengal_55.jpg',3,7,0.93606865,Bengal,Egyptian Mau,False
+455,b'.\\cats20\\test\\Birman\\birman_338.jpg',4,9,0.93475646,Birman,Himalayan,False
+436,b'.\\cats20\\test\\Birman\\birman_26.jpg',4,9,0.93358,Birman,Himalayan,False
+1484,b'.\\cats20\\test\\Persian\\persian_493.jpg',14,15,0.9294717,Persian,Regdoll,False
+874,b'.\\cats20\\test\\Exotic Shorthair\\exotic_422.jpg',8,17,0.926507,Exotic Shorthair,Scottish Fold,False
+1194,b'.\\cats20\\test\\Manx\\manx_68.jpg',11,3,0.9245604,Manx,Bengal,False
+461,b'.\\cats20\\test\\Birman\\birman_356.jpg',4,13,0.92089665,Birman,Norwegian Forest,False
+361,b'.\\cats20\\test\\Bengal\\bengal_364.jpg',3,2,0.9207011,Bengal,American Shorthair,False
+845,b'.\\cats20\\test\\Exotic Shorthair\\exotic_287.jpg',8,6,0.9185904,Exotic Shorthair,Bristish Shorthair,False
+830,b'.\\cats20\\test\\Exotic Shorthair\\exotic_212.jpg',8,9,0.9148358,Exotic Shorthair,Himalayan,False
+418,b'.\\cats20\\test\\Birman\\birman_170.jpg',4,9,0.91001755,Birman,Himalayan,False
+1221,b'.\\cats20\\test\\Munchkin\\munchkin_19.jpg',12,17,0.90530246,Munchkin,Scottish Fold,False
+1006,b'.\\cats20\\test\\Maine Coon\\mainecoon_128.jpg',10,13,0.8997043,Maine Coon,Norwegian Forest,False
+975,b'.\\cats20\\test\\Himalayan\\himalayan_462.jpg',9,4,0.8971725,Himalayan,Birman,False
+1078,b'.\\cats20\\test\\Maine Coon\\mainecoon_468.jpg',10,13,0.89388067,Maine Coon,Norwegian Forest,False
+40,b'.\\cats20\\test\\Abyssinian\\abys_301.jpg',0,10,0.8936754,Abyssinian,Maine Coon,False
+1283,b'.\\cats20\\test\\Munchkin\\munchkin_46.jpg',12,11,0.89219934,Munchkin,Manx,False
+1174,b'.\\cats20\\test\\Manx\\manx_437.jpg',11,6,0.8905,Manx,Bristish Shorthair,False
+145,b'.\\cats20\\test\\American Curl\\americancurl_341.jpg',1,17,0.8904032,American Curl,Scottish Fold,False
+1056,b'.\\cats20\\test\\Maine Coon\\mainecoon_362.jpg',10,13,0.88889396,Maine Coon,Norwegian Forest,False
+1153,b'.\\cats20\\test\\Manx\\manx_332.jpg',11,2,0.8887818,Manx,American Shorthair,False
+1482,b'.\\cats20\\test\\Persian\\persian_49.jpg',14,15,0.881452,Persian,Regdoll,False
+1745,b'.\\cats20\\test\\Scottish Fold\\scottish_299.jpg',17,1,0.8809314,Scottish Fold,American Curl,False
+1494,b'.\\cats20\\test\\Persian\\persian_65.jpg',14,13,0.87693274,Persian,Norwegian Forest,False
+324,b'.\\cats20\\test\\Bengal\\bengal_202.jpg',3,2,0.87680817,Bengal,American Shorthair,False
+1202,b'.\\cats20\\test\\Munchkin\\munchkin_111.jpg',12,18,0.8740355,Munchkin,Siamese,False
+798,b'.\\cats20\\test\\Egyptian Mau\\egyptian_96.jpg',7,3,0.86507857,Egyptian Mau,Bengal,False
+778,b'.\\cats20\\test\\Egyptian Mau\\egyptian_455.jpg',7,3,0.85431486,Egyptian Mau,Bengal,False
+894,b'.\\cats20\\test\\Exotic Shorthair\\exotic_83.jpg',8,6,0.8482632,Exotic Shorthair,Bristish Shorthair,False
+698,b'.\\cats20\\test\\Bristish Shorthair\\bristish_97.jpg',6,5,0.8409017,Bristish Shorthair,Bombay,False
+1157,b'.\\cats20\\test\\Manx\\manx_360.jpg',11,10,0.8383282,Manx,Maine Coon,False
+374,b'.\\cats20\\test\\Bengal\\bengal_430.jpg',3,12,0.8317435,Bengal,Munchkin,False
+17,b'.\\cats20\\test\\Abyssinian\\abys_217.jpg',0,12,0.83129007,Abyssinian,Munchkin,False
+262,b'.\\cats20\\test\\American Shorthair\\american_sh_345.jpg',2,7,0.8292857,American Shorthair,Egyptian Mau,False
+115,b'.\\cats20\\test\\American Curl\\americancurl_185.jpg',1,13,0.8280923,American Curl,Norwegian Forest,False
+434,b'.\\cats20\\test\\Birman\\birman_252.jpg',4,9,0.8278994,Birman,Himalayan,False
+1286,b'.\\cats20\\test\\Munchkin\\munchkin_466.jpg',12,17,0.82679904,Munchkin,Scottish Fold,False
+1488,b'.\\cats20\\test\\Persian\\persian_51.jpg',14,9,0.8267049,Persian,Himalayan,False
+922,b'.\\cats20\\test\\Himalayan\\himalayan_185.jpg',9,4,0.82591456,Himalayan,Birman,False
+1781,b'.\\cats20\\test\\Scottish Fold\\scottish_483.jpg',17,13,0.8174486,Scottish Fold,Norwegian Forest,False
+437,b'.\\cats20\\test\\Birman\\birman_266.jpg',4,14,0.81633735,Birman,Persian,False
+1212,b'.\\cats20\\test\\Munchkin\\munchkin_157.jpg',12,6,0.81549835,Munchkin,Bristish Shorthair,False
+1205,b'.\\cats20\\test\\Munchkin\\munchkin_129.jpg',12,14,0.8131314,Munchkin,Persian,False
+1733,b'.\\cats20\\test\\Scottish Fold\\scottish_259.jpg',17,5,0.8071676,Scottish Fold,Bombay,False
+1757,b'.\\cats20\\test\\Scottish Fold\\scottish_362.jpg',17,1,0.80116487,Scottish Fold,American Curl,False
+1114,b'.\\cats20\\test\\Manx\\manx_157.jpg',11,13,0.79835445,Manx,Norwegian Forest,False
+1122,b'.\\cats20\\test\\Manx\\manx_196.jpg',11,7,0.7963834,Manx,Egyptian Mau,False
+1451,b'.\\cats20\\test\\Persian\\persian_32.jpg',14,6,0.79555273,Persian,Bristish Shorthair,False
+1761,b'.\\cats20\\test\\Scottish Fold\\scottish_393.jpg',17,8,0.795522,Scottish Fold,Exotic Shorthair,False
+152,b'.\\cats20\\test\\American Curl\\americancurl_366.jpg',1,9,0.79353696,American Curl,Himalayan,False
+400,b'.\\cats20\\test\\Birman\\birman_1.jpg',4,9,0.7914211,Birman,Himalayan,False
+1063,b'.\\cats20\\test\\Maine Coon\\mainecoon_409.jpg',10,13,0.79028946,Maine Coon,Norwegian Forest,False
+1133,b'.\\cats20\\test\\Manx\\manx_262.jpg',11,2,0.78708714,Manx,American Shorthair,False
+1111,b'.\\cats20\\test\\Manx\\manx_133.jpg',11,14,0.78092635,Manx,Persian,False
+194,b'.\\cats20\\test\\American Curl\\americancurl_8.jpg',1,13,0.7805271,American Curl,Norwegian Forest,False
+1224,b'.\\cats20\\test\\Munchkin\\munchkin_200.jpg',12,14,0.779179,Munchkin,Persian,False
+179,b'.\\cats20\\test\\American Curl\\americancurl_490.jpg',1,14,0.77766466,American Curl,Persian,False
+1692,b'.\\cats20\\test\\Russian Blue\\russianblue_494.jpg',16,17,0.7760923,Russian Blue,Scottish Fold,False
+1089,b'.\\cats20\\test\\Maine Coon\\mainecoon_494.jpg',10,14,0.771709,Maine Coon,Persian,False
+1512,b'.\\cats20\\test\\Regdoll\\regdoll_154.jpg',15,14,0.77151835,Regdoll,Persian,False
+1154,b'.\\cats20\\test\\Manx\\manx_336.jpg',11,8,0.77102983,Manx,Exotic Shorthair,False
+1010,b'.\\cats20\\test\\Maine Coon\\mainecoon_142.jpg',10,13,0.7700861,Maine Coon,Norwegian Forest,False
+1438,b'.\\cats20\\test\\Persian\\persian_263.jpg',14,10,0.7644996,Persian,Maine Coon,False
+1183,b'.\\cats20\\test\\Manx\\manx_475.jpg',11,5,0.7620779,Manx,Bombay,False
+1192,b'.\\cats20\\test\\Manx\\manx_6.jpg',11,7,0.7604463,Manx,Egyptian Mau,False
+1095,b'.\\cats20\\test\\Maine Coon\\mainecoon_74.jpg',10,5,0.7592802,Maine Coon,Bombay,False
+1419,b'.\\cats20\\test\\Persian\\persian_182.jpg',14,8,0.7588279,Persian,Exotic Shorthair,False
+1323,b'.\\cats20\\test\\Norwegian Forest\\norwegian_201.jpg',13,14,0.75829464,Norwegian Forest,Persian,False
+1411,b'.\\cats20\\test\\Persian\\persian_153.jpg',14,8,0.7581011,Persian,Exotic Shorthair,False
+1035,b'.\\cats20\\test\\Maine Coon\\mainecoon_26.jpg',10,13,0.7580369,Maine Coon,Norwegian Forest,False
+1243,b'.\\cats20\\test\\Munchkin\\munchkin_279.jpg',12,9,0.75678736,Munchkin,Himalayan,False
+1171,b'.\\cats20\\test\\Manx\\manx_427.jpg',11,13,0.7556102,Manx,Norwegian Forest,False
+449,b'.\\cats20\\test\\Birman\\birman_32.jpg',4,9,0.7553382,Birman,Himalayan,False
+1034,b'.\\cats20\\test\\Maine Coon\\mainecoon_244.jpg',10,15,0.7538093,Maine Coon,Regdoll,False
+1037,b'.\\cats20\\test\\Maine Coon\\mainecoon_267.jpg',10,12,0.75164664,Maine Coon,Munchkin,False
+101,b'.\\cats20\\test\\American Curl\\americancurl_102.jpg',1,17,0.75099725,American Curl,Scottish Fold,False
+106,b'.\\cats20\\test\\American Curl\\americancurl_123.jpg',1,14,0.75088394,American Curl,Persian,False
+1766,b'.\\cats20\\test\\Scottish Fold\\scottish_413.jpg',17,18,0.74771804,Scottish Fold,Siamese,False
+476,b'.\\cats20\\test\\Birman\\birman_437.jpg',4,9,0.7471387,Birman,Himalayan,False
+1566,b'.\\cats20\\test\\Regdoll\\regdoll_384.jpg',15,10,0.73991513,Regdoll,Maine Coon,False
+1061,b'.\\cats20\\test\\Maine Coon\\mainecoon_4.jpg',10,13,0.7379632,Maine Coon,Norwegian Forest,False
+879,b'.\\cats20\\test\\Exotic Shorthair\\exotic_460.jpg',8,11,0.7378849,Exotic Shorthair,Manx,False
+912,b'.\\cats20\\test\\Himalayan\\himalayan_140.jpg',9,4,0.730741,Himalayan,Birman,False
+797,b'.\\cats20\\test\\Egyptian Mau\\egyptian_92.jpg',7,3,0.72556645,Egyptian Mau,Bengal,False
+148,b'.\\cats20\\test\\American Curl\\americancurl_356.jpg',1,17,0.72123706,American Curl,Scottish Fold,False
+1442,b'.\\cats20\\test\\Persian\\persian_298.jpg',14,13,0.7200437,Persian,Norwegian Forest,False
+1230,b'.\\cats20\\test\\Munchkin\\munchkin_233.jpg',12,8,0.7190492,Munchkin,Exotic Shorthair,False
+1468,b'.\\cats20\\test\\Persian\\persian_393.jpg',14,15,0.7099426,Persian,Regdoll,False
+150,b'.\\cats20\\test\\American Curl\\americancurl_360.jpg',1,14,0.7069938,American Curl,Persian,False
+1178,b'.\\cats20\\test\\Manx\\manx_452.jpg',11,14,0.70344585,Manx,Persian,False
+1790,b'.\\cats20\\test\\Scottish Fold\\scottish_67.jpg',17,6,0.7023153,Scottish Fold,Bristish Shorthair,False
+1377,b'.\\cats20\\test\\Norwegian Forest\\norwegian_431.jpg',13,14,0.69843596,Norwegian Forest,Persian,False
+1140,b'.\\cats20\\test\\Manx\\manx_289.jpg',11,7,0.6934084,Manx,Egyptian Mau,False
+1645,b'.\\cats20\\test\\Russian Blue\\russianblue_309.jpg',16,6,0.69328994,Russian Blue,Bristish Shorthair,False
+1249,b'.\\cats20\\test\\Munchkin\\munchkin_313.jpg',12,14,0.69039816,Munchkin,Persian,False
+1643,b'.\\cats20\\test\\Russian Blue\\russianblue_291.jpg',16,6,0.68748873,Russian Blue,Bristish Shorthair,False
+1506,b'.\\cats20\\test\\Regdoll\\regdoll_123.jpg',15,14,0.68708265,Regdoll,Persian,False
+167,b'.\\cats20\\test\\American Curl\\americancurl_459.jpg',1,13,0.683672,American Curl,Norwegian Forest,False
+214,b'.\\cats20\\test\\American Shorthair\\american_sh_15.jpg',2,11,0.67953837,American Shorthair,Manx,False
+154,b'.\\cats20\\test\\American Curl\\americancurl_376.jpg',1,13,0.6788764,American Curl,Norwegian Forest,False
+1069,b'.\\cats20\\test\\Maine Coon\\mainecoon_425.jpg',10,13,0.67295665,Maine Coon,Norwegian Forest,False
+1244,b'.\\cats20\\test\\Munchkin\\munchkin_281.jpg',12,13,0.66859585,Munchkin,Norwegian Forest,False
+413,b'.\\cats20\\test\\Birman\\birman_145.jpg',4,9,0.66828823,Birman,Himalayan,False
+1292,b'.\\cats20\\test\\Munchkin\\munchkin_496.jpg',12,2,0.6681176,Munchkin,American Shorthair,False
+1223,b'.\\cats20\\test\\Munchkin\\munchkin_193.jpg',12,2,0.6681176,Munchkin,American Shorthair,False
+119,b'.\\cats20\\test\\American Curl\\americancurl_200.jpg',1,6,0.66709214,American Curl,Bristish Shorthair,False
+906,b'.\\cats20\\test\\Himalayan\\himalayan_127.jpg',9,4,0.6631917,Himalayan,Birman,False
+409,b'.\\cats20\\test\\Birman\\birman_129.jpg',4,9,0.662784,Birman,Himalayan,False
+805,b'.\\cats20\\test\\Exotic Shorthair\\exotic_121.jpg',8,17,0.66201663,Exotic Shorthair,Scottish Fold,False
+1191,b'.\\cats20\\test\\Manx\\manx_57.jpg',11,5,0.66200185,Manx,Bombay,False
+1629,b'.\\cats20\\test\\Russian Blue\\russianblue_222.jpg',16,17,0.661566,Russian Blue,Scottish Fold,False
+1467,b'.\\cats20\\test\\Persian\\persian_381.jpg',14,9,0.65761364,Persian,Himalayan,False
+1666,b'.\\cats20\\test\\Russian Blue\\russianblue_386.jpg',16,17,0.65398026,Russian Blue,Scottish Fold,False
+1720,b'.\\cats20\\test\\Scottish Fold\\scottish_198.jpg',17,15,0.6536793,Scottish Fold,Regdoll,False
+695,b'.\\cats20\\test\\Bristish Shorthair\\bristish_79.jpg',6,17,0.647937,Bristish Shorthair,Scottish Fold,False
+1281,b'.\\cats20\\test\\Munchkin\\munchkin_456.jpg',12,6,0.6452575,Munchkin,Bristish Shorthair,False
+472,b'.\\cats20\\test\\Birman\\birman_404.jpg',4,18,0.6444079,Birman,Siamese,False
+1074,b'.\\cats20\\test\\Maine Coon\\mainecoon_448.jpg',10,13,0.64280397,Maine Coon,Norwegian Forest,False
+1009,b'.\\cats20\\test\\Maine Coon\\mainecoon_135.jpg',10,13,0.64109844,Maine Coon,Norwegian Forest,False
+680,b'.\\cats20\\test\\Bristish Shorthair\\bristish_463.jpg',6,8,0.63906705,Bristish Shorthair,Exotic Shorthair,False
+1216,b'.\\cats20\\test\\Munchkin\\munchkin_180.jpg',12,8,0.63057584,Munchkin,Exotic Shorthair,False
+187,b'.\\cats20\\test\\American Curl\\americancurl_65.jpg',1,17,0.6299681,American Curl,Scottish Fold,False
+1215,b'.\\cats20\\test\\Munchkin\\munchkin_176.jpg',12,14,0.6277288,Munchkin,Persian,False
+929,b'.\\cats20\\test\\Himalayan\\himalayan_201.jpg',9,4,0.6275242,Himalayan,Birman,False
+1567,b'.\\cats20\\test\\Regdoll\\regdoll_386.jpg',15,14,0.6260862,Regdoll,Persian,False
+220,b'.\\cats20\\test\\American Shorthair\\american_sh_178.jpg',2,12,0.62497795,American Shorthair,Munchkin,False
+188,b'.\\cats20\\test\\American Curl\\americancurl_66.jpg',1,13,0.6220145,American Curl,Norwegian Forest,False
+320,b'.\\cats20\\test\\Bengal\\bengal_183.jpg',3,2,0.6150959,Bengal,American Shorthair,False
+1182,b'.\\cats20\\test\\Manx\\manx_474.jpg',11,6,0.61350965,Manx,Bristish Shorthair,False
+1207,b'.\\cats20\\test\\Munchkin\\munchkin_139.jpg',12,17,0.61125463,Munchkin,Scottish Fold,False
+442,b'.\\cats20\\test\\Birman\\birman_278.jpg',4,9,0.61079824,Birman,Himalayan,False
+416,b'.\\cats20\\test\\Birman\\birman_162.jpg',4,9,0.6106086,Birman,Himalayan,False
+306,b'.\\cats20\\test\\Bengal\\bengal_13.jpg',3,7,0.61049736,Bengal,Egyptian Mau,False
+1329,b'.\\cats20\\test\\Norwegian Forest\\norwegian_236.jpg',13,1,0.6082712,Norwegian Forest,American Curl,False
+303,b'.\\cats20\\test\\Bengal\\bengal_112.jpg',3,2,0.607374,Bengal,American Shorthair,False
+831,b'.\\cats20\\test\\Exotic Shorthair\\exotic_217.jpg',8,17,0.6056408,Exotic Shorthair,Scottish Fold,False
+1973,b'.\\cats20\\test\\Sphynx\\sphynx_396.jpg',19,16,0.60174775,Sphynx,Russian Blue,False
+1004,b'.\\cats20\\test\\Maine Coon\\mainecoon_123.jpg',10,15,0.6015422,Maine Coon,Regdoll,False
+1206,b'.\\cats20\\test\\Munchkin\\munchkin_131.jpg',12,11,0.601282,Munchkin,Manx,False
+1068,b'.\\cats20\\test\\Maine Coon\\mainecoon_422.jpg',10,13,0.601145,Maine Coon,Norwegian Forest,False
+1466,b'.\\cats20\\test\\Persian\\persian_377.jpg',14,9,0.5997424,Persian,Himalayan,False
+1791,b'.\\cats20\\test\\Scottish Fold\\scottish_69.jpg',17,6,0.59680647,Scottish Fold,Bristish Shorthair,False
+1519,b'.\\cats20\\test\\Regdoll\\regdoll_177.jpg',15,10,0.5967438,Regdoll,Maine Coon,False
+1250,b'.\\cats20\\test\\Munchkin\\munchkin_315.jpg',12,14,0.59488773,Munchkin,Persian,False
+877,b'.\\cats20\\test\\Exotic Shorthair\\exotic_440.jpg',8,6,0.59439534,Exotic Shorthair,Bristish Shorthair,False
+531,b'.\\cats20\\test\\Bombay\\bombay_2.jpg',5,16,0.5939456,Bombay,Russian Blue,False
+456,b'.\\cats20\\test\\Birman\\birman_339.jpg',4,9,0.5899738,Birman,Himalayan,False
+1027,b'.\\cats20\\test\\Maine Coon\\mainecoon_218.jpg',10,13,0.5863804,Maine Coon,Norwegian Forest,False
+1416,b'.\\cats20\\test\\Persian\\persian_175.jpg',14,8,0.58433056,Persian,Exotic Shorthair,False
+981,b'.\\cats20\\test\\Himalayan\\himalayan_486.jpg',9,14,0.58352077,Himalayan,Persian,False
+1744,b'.\\cats20\\test\\Scottish Fold\\scottish_297.jpg',17,6,0.5782034,Scottish Fold,Bristish Shorthair,False
+431,b'.\\cats20\\test\\Birman\\birman_244.jpg',4,9,0.5781748,Birman,Himalayan,False
+915,b'.\\cats20\\test\\Himalayan\\himalayan_154.jpg',9,18,0.57724535,Himalayan,Siamese,False
+1252,b'.\\cats20\\test\\Munchkin\\munchkin_323.jpg',12,3,0.57316566,Munchkin,Bengal,False
+439,b'.\\cats20\\test\\Birman\\birman_272.jpg',4,9,0.57153296,Birman,Himalayan,False
+192,b'.\\cats20\\test\\American Curl\\americancurl_75.jpg',1,13,0.571356,American Curl,Norwegian Forest,False
+1531,b'.\\cats20\\test\\Regdoll\\regdoll_220.jpg',15,12,0.56923676,Regdoll,Munchkin,False
+315,b'.\\cats20\\test\\Bengal\\bengal_160.jpg',3,7,0.5675883,Bengal,Egyptian Mau,False
+1270,b'.\\cats20\\test\\Munchkin\\munchkin_408.jpg',12,6,0.5639066,Munchkin,Bristish Shorthair,False
+1193,b'.\\cats20\\test\\Manx\\manx_62.jpg',11,8,0.56295055,Manx,Exotic Shorthair,False
+1794,b'.\\cats20\\test\\Scottish Fold\\scottish_81.jpg',17,1,0.5617577,Scottish Fold,American Curl,False
+190,b'.\\cats20\\test\\American Curl\\americancurl_69.jpg',1,17,0.5616012,American Curl,Scottish Fold,False
+1110,b'.\\cats20\\test\\Manx\\manx_132.jpg',11,6,0.5588114,Manx,Bristish Shorthair,False
+1213,b'.\\cats20\\test\\Munchkin\\munchkin_160.jpg',12,6,0.5578099,Munchkin,Bristish Shorthair,False
+1054,b'.\\cats20\\test\\Maine Coon\\mainecoon_354.jpg',10,13,0.55738246,Maine Coon,Norwegian Forest,False
+1293,b'.\\cats20\\test\\Munchkin\\munchkin_52.jpg',12,6,0.5519986,Munchkin,Bristish Shorthair,False
+1755,b'.\\cats20\\test\\Scottish Fold\\scottish_352.jpg',17,8,0.55030376,Scottish Fold,Exotic Shorthair,False
+665,b'.\\cats20\\test\\Bristish Shorthair\\bristish_355.jpg',6,8,0.54804057,Bristish Shorthair,Exotic Shorthair,False
+1150,b'.\\cats20\\test\\Manx\\manx_315.jpg',11,2,0.54794276,Manx,American Shorthair,False
+1219,b'.\\cats20\\test\\Munchkin\\munchkin_186.jpg',12,2,0.5478044,Munchkin,American Shorthair,False
+197,b'.\\cats20\\test\\American Curl\\americancurl_92.jpg',1,13,0.5398724,American Curl,Norwegian Forest,False
+127,b'.\\cats20\\test\\American Curl\\americancurl_25.jpg',1,6,0.53901696,American Curl,Bristish Shorthair,False
+1718,b'.\\cats20\\test\\Scottish Fold\\scottish_191.jpg',17,8,0.5352481,Scottish Fold,Exotic Shorthair,False
+463,b'.\\cats20\\test\\Birman\\birman_367.jpg',4,9,0.53418887,Birman,Himalayan,False
+1633,b'.\\cats20\\test\\Russian Blue\\russianblue_238.jpg',16,17,0.53406405,Russian Blue,Scottish Fold,False
+1679,b'.\\cats20\\test\\Russian Blue\\russianblue_427.jpg',16,6,0.53314495,Russian Blue,Bristish Shorthair,False
+1103,b'.\\cats20\\test\\Manx\\manx_111.jpg',11,13,0.5287706,Manx,Norwegian Forest,False
+657,b'.\\cats20\\test\\Bristish Shorthair\\bristish_321.jpg',6,15,0.52825856,Bristish Shorthair,Regdoll,False
+470,b'.\\cats20\\test\\Birman\\birman_399.jpg',4,9,0.5264907,Birman,Himalayan,False
+1990,b'.\\cats20\\test\\Sphynx\\sphynx_52.jpg',19,0,0.5227852,Sphynx,Abyssinian,False
+1130,b'.\\cats20\\test\\Manx\\manx_247.jpg',11,8,0.5225736,Manx,Exotic Shorthair,False
+1473,b'.\\cats20\\test\\Persian\\persian_439.jpg',14,9,0.52256805,Persian,Himalayan,False
+700,b'.\\cats20\\test\\Egyptian Mau\\egyptian_101.jpg',7,11,0.52062505,Egyptian Mau,Manx,False
+19,b'.\\cats20\\test\\Abyssinian\\abys_224.jpg',0,6,0.52027845,Abyssinian,Bristish Shorthair,False
+117,b'.\\cats20\\test\\American Curl\\americancurl_197.jpg',1,13,0.5200321,American Curl,Norwegian Forest,False
+950,b'.\\cats20\\test\\Himalayan\\himalayan_32.jpg',9,4,0.519342,Himalayan,Birman,False
+1145,b'.\\cats20\\test\\Manx\\manx_302.jpg',11,6,0.5184698,Manx,Bristish Shorthair,False
+1239,b'.\\cats20\\test\\Munchkin\\munchkin_264.jpg',12,6,0.51260954,Munchkin,Bristish Shorthair,False
+307,b'.\\cats20\\test\\Bengal\\bengal_130.jpg',3,2,0.51192415,Bengal,American Shorthair,False
+1409,b'.\\cats20\\test\\Persian\\persian_146.jpg',14,8,0.51131827,Persian,Exotic Shorthair,False
+1799,b'.\\cats20\\test\\Scottish Fold\\scottish_95.jpg',17,6,0.51115453,Scottish Fold,Bristish Shorthair,False
+1663,b'.\\cats20\\test\\Russian Blue\\russianblue_362.jpg',16,17,0.5109574,Russian Blue,Scottish Fold,False
+1043,b'.\\cats20\\test\\Maine Coon\\mainecoon_283.jpg',10,13,0.51018625,Maine Coon,Norwegian Forest,False
+900,b'.\\cats20\\test\\Himalayan\\himalayan_113.jpg',9,4,0.5080041,Himalayan,Birman,False
+1299,b'.\\cats20\\test\\Munchkin\\munchkin_91.jpg',12,8,0.50661564,Munchkin,Exotic Shorthair,False
+318,b'.\\cats20\\test\\Bengal\\bengal_178.jpg',3,7,0.50628126,Bengal,Egyptian Mau,False
+1247,b'.\\cats20\\test\\Munchkin\\munchkin_292.jpg',12,8,0.5059926,Munchkin,Exotic Shorthair,False
+1724,b'.\\cats20\\test\\Scottish Fold\\scottish_229.jpg',17,8,0.5055813,Scottish Fold,Exotic Shorthair,False
+694,b'.\\cats20\\test\\Bristish Shorthair\\bristish_75.jpg',6,8,0.5054023,Bristish Shorthair,Exotic Shorthair,False
+452,b'.\\cats20\\test\\Birman\\birman_325.jpg',4,9,0.5052563,Birman,Himalayan,False
+1352,b'.\\cats20\\test\\Norwegian Forest\\norwegian_347.jpg',13,10,0.503967,Norwegian Forest,Maine Coon,False
+423,b'.\\cats20\\test\\Birman\\birman_206.jpg',4,9,0.5026111,Birman,Himalayan,False
+1765,b'.\\cats20\\test\\Scottish Fold\\scottish_409.jpg',17,6,0.5001706,Scottish Fold,Bristish Shorthair,False
+169,b'.\\cats20\\test\\American Curl\\americancurl_461.jpg',1,13,0.49908537,American Curl,Norwegian Forest,False
+1792,b'.\\cats20\\test\\Scottish Fold\\scottish_74.jpg',17,12,0.49664417,Scottish Fold,Munchkin,False
+1258,b'.\\cats20\\test\\Munchkin\\munchkin_345.jpg',12,1,0.4939769,Munchkin,American Curl,False
+123,b'.\\cats20\\test\\American Curl\\americancurl_216.jpg',1,13,0.49267906,American Curl,Norwegian Forest,False
+814,b'.\\cats20\\test\\Exotic Shorthair\\exotic_16.jpg',8,1,0.49261624,Exotic Shorthair,American Curl,False
+1208,b'.\\cats20\\test\\Munchkin\\munchkin_140.jpg',12,1,0.49206817,Munchkin,American Curl,False
+1129,b'.\\cats20\\test\\Manx\\manx_245.jpg',11,13,0.48873708,Manx,Norwegian Forest,False
+1104,b'.\\cats20\\test\\Manx\\manx_113.jpg',11,13,0.48621833,Manx,Norwegian Forest,False
+1229,b'.\\cats20\\test\\Munchkin\\munchkin_230.jpg',12,17,0.4859363,Munchkin,Scottish Fold,False
+474,b'.\\cats20\\test\\Birman\\birman_422.jpg',4,9,0.48476246,Birman,Himalayan,False
+1523,b'.\\cats20\\test\\Regdoll\\regdoll_183.jpg',15,9,0.48465222,Regdoll,Himalayan,False
+121,b'.\\cats20\\test\\American Curl\\americancurl_21.jpg',1,17,0.48427078,American Curl,Scottish Fold,False
+160,b'.\\cats20\\test\\American Curl\\americancurl_404.jpg',1,17,0.47980678,American Curl,Scottish Fold,False
+1268,b'.\\cats20\\test\\Munchkin\\munchkin_401.jpg',12,1,0.47546068,Munchkin,American Curl,False
+1109,b'.\\cats20\\test\\Manx\\manx_131.jpg',11,16,0.46965864,Manx,Russian Blue,False
+365,b'.\\cats20\\test\\Bengal\\bengal_393.jpg',3,2,0.46540517,Bengal,American Shorthair,False
+932,b'.\\cats20\\test\\Himalayan\\himalayan_225.jpg',9,15,0.46456462,Himalayan,Regdoll,False
+1424,b'.\\cats20\\test\\Persian\\persian_199.jpg',14,12,0.4638082,Persian,Munchkin,False
+1155,b'.\\cats20\\test\\Manx\\manx_348.jpg',11,2,0.4629353,Manx,American Shorthair,False
+1460,b'.\\cats20\\test\\Persian\\persian_356.jpg',14,8,0.46238127,Persian,Exotic Shorthair,False
+1271,b'.\\cats20\\test\\Munchkin\\munchkin_41.jpg',12,1,0.46061227,Munchkin,American Curl,False
+165,b'.\\cats20\\test\\American Curl\\americancurl_433.jpg',1,17,0.46040764,American Curl,Scottish Fold,False
+1073,b'.\\cats20\\test\\Maine Coon\\mainecoon_44.jpg',10,6,0.46008512,Maine Coon,Bristish Shorthair,False
+258,b'.\\cats20\\test\\American Shorthair\\american_sh_33.jpg',2,17,0.45873827,American Shorthair,Scottish Fold,False
+645,b'.\\cats20\\test\\Bristish Shorthair\\bristish_26.jpg',6,15,0.4577684,Bristish Shorthair,Regdoll,False
+147,b'.\\cats20\\test\\American Curl\\americancurl_35.jpg',1,10,0.4504947,American Curl,Maine Coon,False
+1160,b'.\\cats20\\test\\Manx\\manx_371.jpg',11,10,0.44832227,Manx,Maine Coon,False
+934,b'.\\cats20\\test\\Himalayan\\himalayan_231.jpg',9,18,0.44511053,Himalayan,Siamese,False
+687,b'.\\cats20\\test\\Bristish Shorthair\\bristish_495.jpg',6,8,0.44492835,Bristish Shorthair,Exotic Shorthair,False
+1583,b'.\\cats20\\test\\Regdoll\\regdoll_463.jpg',15,9,0.44471705,Regdoll,Himalayan,False
+137,b'.\\cats20\\test\\American Curl\\americancurl_301.jpg',1,17,0.44399932,American Curl,Scottish Fold,False
+861,b'.\\cats20\\test\\Exotic Shorthair\\exotic_36.jpg',8,15,0.43861085,Exotic Shorthair,Regdoll,False
+1412,b'.\\cats20\\test\\Persian\\persian_155.jpg',14,8,0.43713704,Persian,Exotic Shorthair,False
+617,b'.\\cats20\\test\\Bristish Shorthair\\bristish_157.jpg',6,8,0.43469667,Bristish Shorthair,Exotic Shorthair,False
+41,b'.\\cats20\\test\\Abyssinian\\abys_302.jpg',0,6,0.4346737,Abyssinian,Bristish Shorthair,False
+151,b'.\\cats20\\test\\American Curl\\americancurl_362.jpg',1,14,0.4342161,American Curl,Persian,False
+1256,b'.\\cats20\\test\\Munchkin\\munchkin_343.jpg',12,2,0.43254313,Munchkin,American Shorthair,False
+1076,b'.\\cats20\\test\\Maine Coon\\mainecoon_456.jpg',10,13,0.4312895,Maine Coon,Norwegian Forest,False
+1228,b'.\\cats20\\test\\Munchkin\\munchkin_228.jpg',12,14,0.42382908,Munchkin,Persian,False
+299,b'.\\cats20\\test\\American Shorthair\\american_sh_99.jpg',2,7,0.42338976,American Shorthair,Egyptian Mau,False
+773,b'.\\cats20\\test\\Egyptian Mau\\egyptian_43.jpg',7,2,0.42152986,Egyptian Mau,American Shorthair,False
+1740,b'.\\cats20\\test\\Scottish Fold\\scottish_286.jpg',17,6,0.42111862,Scottish Fold,Bristish Shorthair,False
+1305,b'.\\cats20\\test\\Norwegian Forest\\norwegian_125.jpg',13,14,0.41915593,Norwegian Forest,Persian,False
+1148,b'.\\cats20\\test\\Manx\\manx_313.jpg',11,2,0.41870874,Manx,American Shorthair,False
+1125,b'.\\cats20\\test\\Manx\\manx_213.jpg',11,13,0.4134717,Manx,Norwegian Forest,False
+173,b'.\\cats20\\test\\American Curl\\americancurl_47.jpg',1,14,0.41160223,American Curl,Persian,False
+1136,b'.\\cats20\\test\\Manx\\manx_276.jpg',11,16,0.39693055,Manx,Russian Blue,False
+1185,b'.\\cats20\\test\\Manx\\manx_483.jpg',11,1,0.39564592,Manx,American Curl,False
+1217,b'.\\cats20\\test\\Munchkin\\munchkin_182.jpg',12,10,0.39370713,Munchkin,Maine Coon,False
+1170,b'.\\cats20\\test\\Manx\\manx_423.jpg',11,2,0.39291406,Manx,American Shorthair,False
+1695,b'.\\cats20\\test\\Russian Blue\\russianblue_65.jpg',16,10,0.39066234,Russian Blue,Maine Coon,False
+690,b'.\\cats20\\test\\Bristish Shorthair\\bristish_61.jpg',6,8,0.38822046,Bristish Shorthair,Exotic Shorthair,False
+352,b'.\\cats20\\test\\Bengal\\bengal_318.jpg',3,7,0.38764444,Bengal,Egyptian Mau,False
+1204,b'.\\cats20\\test\\Munchkin\\munchkin_123.jpg',12,8,0.38528407,Munchkin,Exotic Shorthair,False
+1596,b'.\\cats20\\test\\Regdoll\\regdoll_74.jpg',15,14,0.3829909,Regdoll,Persian,False
+1242,b'.\\cats20\\test\\Munchkin\\munchkin_277.jpg',12,2,0.38203645,Munchkin,American Shorthair,False
+1269,b'.\\cats20\\test\\Munchkin\\munchkin_407.jpg',12,6,0.3815374,Munchkin,Bristish Shorthair,False
+252,b'.\\cats20\\test\\American Shorthair\\american_sh_314.jpg',2,3,0.38094327,American Shorthair,Bengal,False
+488,b'.\\cats20\\test\\Birman\\birman_49.jpg',4,15,0.3790173,Birman,Regdoll,False
+752,b'.\\cats20\\test\\Egyptian Mau\\egyptian_325.jpg',7,2,0.37732837,Egyptian Mau,American Shorthair,False
+1199,b'.\\cats20\\test\\Manx\\manx_99.jpg',11,2,0.37678784,Manx,American Shorthair,False
+1186,b'.\\cats20\\test\\Manx\\manx_489.jpg',11,10,0.37497085,Manx,Maine Coon,False
+1439,b'.\\cats20\\test\\Persian\\persian_275.jpg',14,10,0.37179118,Persian,Maine Coon,False
+601,b'.\\cats20\\test\\Bristish Shorthair\\bristish_104.jpg',6,17,0.37166122,Bristish Shorthair,Scottish Fold,False
+403,b'.\\cats20\\test\\Birman\\birman_108.jpg',4,12,0.3704966,Birman,Munchkin,False
+1979,b'.\\cats20\\test\\Sphynx\\sphynx_421.jpg',19,15,0.36969838,Sphynx,Regdoll,False
+464,b'.\\cats20\\test\\Birman\\birman_369.jpg',4,9,0.36598828,Birman,Himalayan,False
+395,b'.\\cats20\\test\\Bengal\\bengal_90.jpg',3,2,0.36030152,Bengal,American Shorthair,False
+1274,b'.\\cats20\\test\\Munchkin\\munchkin_424.jpg',12,6,0.3589189,Munchkin,Bristish Shorthair,False
+1164,b'.\\cats20\\test\\Manx\\manx_394.jpg',11,1,0.355931,Manx,American Curl,False
+102,b'.\\cats20\\test\\American Curl\\americancurl_11.jpg',1,15,0.352729,American Curl,Regdoll,False
+103,b'.\\cats20\\test\\American Curl\\americancurl_116.jpg',1,17,0.35140154,American Curl,Scottish Fold,False
+1092,b'.\\cats20\\test\\Maine Coon\\mainecoon_61.jpg',10,15,0.34510794,Maine Coon,Regdoll,False
+457,b'.\\cats20\\test\\Birman\\birman_341.jpg',4,14,0.34312645,Birman,Persian,False
+1392,b'.\\cats20\\test\\Norwegian Forest\\norwegian_66.jpg',13,5,0.34263176,Norwegian Forest,Bombay,False
+815,b'.\\cats20\\test\\Exotic Shorthair\\exotic_161.jpg',8,11,0.33482906,Exotic Shorthair,Manx,False
+122,b'.\\cats20\\test\\American Curl\\americancurl_215.jpg',1,9,0.33279717,American Curl,Himalayan,False
+1267,b'.\\cats20\\test\\Munchkin\\munchkin_398.jpg',12,17,0.32622182,Munchkin,Scottish Fold,False
+1785,b'.\\cats20\\test\\Scottish Fold\\scottish_59.jpg',17,1,0.32463637,Scottish Fold,American Curl,False
+1771,b'.\\cats20\\test\\Scottish Fold\\scottish_444.jpg',17,1,0.32463637,Scottish Fold,American Curl,False
+304,b'.\\cats20\\test\\Bengal\\bengal_118.jpg',3,11,0.321589,Bengal,Manx,False
+1196,b'.\\cats20\\test\\Manx\\manx_84.jpg',11,7,0.32056716,Manx,Egyptian Mau,False
+336,b'.\\cats20\\test\\Bengal\\bengal_279.jpg',3,12,0.31948087,Bengal,Munchkin,False
+1254,b'.\\cats20\\test\\Munchkin\\munchkin_335.jpg',12,17,0.31713632,Munchkin,Scottish Fold,False
+1788,b'.\\cats20\\test\\Scottish Fold\\scottish_63.jpg',17,15,0.31587943,Scottish Fold,Regdoll,False
+1149,b'.\\cats20\\test\\Manx\\manx_314.jpg',11,7,0.30652976,Manx,Egyptian Mau,False
+491,b'.\\cats20\\test\\Birman\\birman_57.jpg',4,9,0.30292824,Birman,Himalayan,False
+111,b'.\\cats20\\test\\American Curl\\americancurl_151.jpg',1,6,0.29963946,American Curl,Bristish Shorthair,False
+1169,b'.\\cats20\\test\\Manx\\manx_417.jpg',11,6,0.29036853,Manx,Bristish Shorthair,False
+1431,b'.\\cats20\\test\\Persian\\persian_235.jpg',14,15,0.28591034,Persian,Regdoll,False
+844,b'.\\cats20\\test\\Exotic Shorthair\\exotic_271.jpg',8,1,0.28549284,Exotic Shorthair,American Curl,False
+451,b'.\\cats20\\test\\Birman\\birman_324.jpg',4,14,0.2754123,Birman,Persian,False
+517,b'.\\cats20\\test\\Bombay\\bombay_167.jpg',5,6,0.2749149,Bombay,Bristish Shorthair,False
+1166,b'.\\cats20\\test\\Manx\\manx_400.jpg',11,1,0.2538649,Manx,American Curl,False
+804,b'.\\cats20\\test\\Exotic Shorthair\\exotic_12.jpg',8,17,0.25080904,Exotic Shorthair,Scottish Fold,False
+175,b'.\\cats20\\test\\American Curl\\americancurl_477.jpg',1,13,0.24996829,American Curl,Norwegian Forest,False
+859,b'.\\cats20\\test\\Exotic Shorthair\\exotic_35.jpg',8,12,0.2372259,Exotic Shorthair,Munchkin,False
