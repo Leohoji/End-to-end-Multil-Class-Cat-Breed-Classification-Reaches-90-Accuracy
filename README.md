@@ -82,7 +82,6 @@ Create a folder and open [git](https://git-scm.com/) cmd in it.
 
 ```
 git clone https://github.com/Leohoji/End-to-end-Multil-Class-Cat-Breed-Classification-Reaches-93-Percent-Accuracy.git
-```
 
 Close the git cmd and go into the cloned folder: **End-to-end-Multil-Class-Cat-Breed-Classification-Reaches-93-Percent-Accuracy**
 
