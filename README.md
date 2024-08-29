@@ -4,7 +4,7 @@
 In the purpose of this project, I would like to train a model for various cat breed classification (13+) and try to predict my custom images.
 
 <p align='center'>
-  <img src="https://github.com/Leohoji/End-to-end-Multil-Class-Cat-Breed-Classification-Reaches-90-Accuracy/assets/101786128/7db1f918-19c2-4c94-bfd7-f7091400ee25" width=800 height=800>
+  <img src="https://github.com/Leohoji/End-to-end-Multil-Class-Cat-Breed-Classification-Reaches-90-Accuracy/assets/101786128/7db1f918-19c2-4c94-bfd7-f7091400ee25" width=1000 height=800>
 </p>
 
 ✨ If you could not render the notebook, copy `https://github.com/Leohoji/End-to-end-Multil-Class-Cat-Breed-Classification-Reaches-93-Percent-Accuracy/blob/main/End-to-end%20Multil-Class%20Cat-Breed%20Classification%20Reaches%2093%25%20Accuracy.ipynb` on [nbviewer](https://nbviewer.org/) to render it !
