@@ -101,7 +101,7 @@ conda create --name myenv python=3.10.3
 
 Run the code to install requiremental packages:
 
-```
+```pytphon
 !pip install -r requirements.txt
 ```
 
@@ -123,6 +123,7 @@ Following modules are essential modules in `requirement.txt`
 pip install jupyter
 ```
 or
+
 ```
 pip install jupyterlab
 ```
@@ -132,6 +133,7 @@ pip install jupyterlab
 If you would like to run the selenium modules, you have to download the `webdriver`. Hence, check the version of browser by [**ChromedDriver versions**](https://chromedriver.chromium.org/downloads).
 
 ✨ Load pre-trained model to predict
+
 ```
 import os
 import tensorflow as tf
@@ -157,6 +159,7 @@ pred_label = label_names[pred_prob.argmax()]
 # Plot results ...
 ```
 
+---
 ## Project Author
 Lo Ho
 
