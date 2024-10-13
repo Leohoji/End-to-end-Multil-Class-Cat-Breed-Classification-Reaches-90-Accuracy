@@ -80,8 +80,9 @@ If you would like to run the codes in this project, follow the steps below:
 
 Create a folder and open [git](https://git-scm.com/) cmd in it.
 
-```
+```bash
 git clone https://github.com/Leohoji/End-to-end-Multil-Class-Cat-Breed-Classification-Reaches-93-Percent-Accuracy.git
+```
 
 Close the git cmd and go into the cloned folder: **End-to-end-Multil-Class-Cat-Breed-Classification-Reaches-93-Percent-Accuracy**
 
@@ -89,7 +90,7 @@ Close the git cmd and go into the cloned folder: **End-to-end-Multil-Class-Cat-B
 
 Create an [conda](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-with-commands) environment by command.
 
-```
+```bash
 conda create --name myenv python=3.10.3
 ```
 
@@ -101,8 +102,8 @@ conda create --name myenv python=3.10.3
 
 Run the code to install requiremental packages:
 
-```pytphon
-!pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
 ```
 
 <ins>**Requirement.txt**</ins>
